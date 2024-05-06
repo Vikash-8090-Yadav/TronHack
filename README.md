@@ -1,10 +1,11 @@
 # This project  is  made under 
 
-![Screenshot from 2024-05-05 00-56-05](https://github.com/Vikash-8090-Yadav/Tara-Store/assets/85225156/98fffe45-5828-4c18-b452-4518477f41f5)
+![Screenshot from 2024-05-06 20-53-08](https://github.com/Vikash-8090-Yadav/TronHack/assets/85225156/bb0697c3-df18-4097-a235-8941704978c5)
 
 
 
-### Demo Video: https://youtu.be/cpEV6qA6yaI
+
+### Demo Video:
 
 ### Frontend Deploy Link: https://tara-store.vercel.app/
 
@@ -28,7 +29,7 @@ Explorer Link:
 
 - **Listing Products**: Anyone can easily list their products on our website.
 
-![Screenshot from 2024-05-05 00-57-46](https://github.com/Vikash-8090-Yadav/Tara-Store/assets/85225156/d9abc8b9-bfe7-4df4-a1f6-f06da166458f)
+
 
 
 - **Unique Digital Assets**: Each product is represented as a unique digital asset called an NFT (non-fungible token), ensuring it has its own digital identity that can't be replicated or divided.
