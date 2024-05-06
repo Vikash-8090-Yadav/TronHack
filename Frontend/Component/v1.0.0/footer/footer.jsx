@@ -32,7 +32,7 @@ const Footer = () => {
         <div className="flex mb-auto flex-wrap justify-center mx-auto">
          
           <div className="mt-2">
-            <h1 className="font-raleway text-3xl ml-3">TARA STORE</h1>
+            <h1 className="font-raleway text-3xl ml-3">TRON STORE</h1>
           
           </div>
         </div>
