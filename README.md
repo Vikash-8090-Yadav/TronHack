@@ -17,7 +17,7 @@ We are solving a major problem ,where anyone can sell goods directly to the cust
 
 ## Contract Info 
 
-Contract Address:
+Contract Address: 0x2C8e10de89319BEdD4535fe668B659e6e1dF5593
 
 Explorer Link:  
 
