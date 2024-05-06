@@ -13,7 +13,7 @@ const AboutUs = () => {
       <div className="flex flex-col md:flex-row justify-between p-5 m-10 relative sm:p-10">
         <div className="hidden lg:block">
           <h1 className="text-5xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-white mt-24">
-            About <br /> TARA STORE
+            About <br /> Tron STORE
           </h1>
           <p className="text-white lg:w-3/5 ml-12 xl:w-1/2 text-lg mt-8 tracking-wider">
           Our mission is to empower users to explore their passions, connect with like-minded individuals,
@@ -64,7 +64,7 @@ const AboutUs = () => {
                   Our Vision
                 </h1>
                 <p className="text-[#D4D4D4] text-xl tracking-wider">
-                At "TARA store," we envision a global community of collectors, traders, and enthusiasts seamlessly interacting 
+                At "tron store," we envision a global community of collectors, traders, and enthusiasts seamlessly interacting 
           in a secure and transparent marketplace. By harnessing the power of NFTs and blockchain, we aim to create an inclusive 
           platform where users can confidently trade unique items, build their collections, and participate in a burgeoning economy 
           of rare and valuable goods. Our mission is to empower users to explore their passions, connect with like-minded individuals,
