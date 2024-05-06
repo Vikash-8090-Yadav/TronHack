@@ -7,7 +7,7 @@
 
 ### Demo Video:
 
-### Frontend Deploy Link: https://tara-store.vercel.app/
+### Frontend Deploy Link: https://tron-hack-gamma.vercel.app/
 
 
 ## Introduction 
